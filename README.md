@@ -13,3 +13,6 @@ using the Flutterwave APIs.
 To use this system, kindly visit the live demo at: https://payet.herokuapp.com/
 
 Create an Account, and Explore
+
+## Contact
+Intrested in this project or you want me to work for you? Contact me on +2348163922749 and on email via agavitalisogbonna@gmail.com
