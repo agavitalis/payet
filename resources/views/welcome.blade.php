@@ -208,7 +208,7 @@
                         <li><a href="#" class="icon-box circle"><em class="fa fa-facebook" aria-hidden="true"></em></a></li>
                         <li><a href="#" class="icon-box circle"><em class="fa fa-twitter" aria-hidden="true"></em></a></li>
                     </ul>
-                    <p>Copyright &copy; 2018 <a href="#" class="c-p">Iphytech </a></p>
+                    <p>Copyright &copy; 2018 <a href="#" class="c-p">Payet</a></p>
                 </div>
             </div>
         </div>

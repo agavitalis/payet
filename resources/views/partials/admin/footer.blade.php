@@ -5,7 +5,7 @@
         <footer>
           
           <div class="pull-right">
-            Powered By  <a href="#">Iphetech</a>
+            Powered By  <a href="#">Payet</a>
           </div>
           <div class="clearfix"></div>
         </footer>
